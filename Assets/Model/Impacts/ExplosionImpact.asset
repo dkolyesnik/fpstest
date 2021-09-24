@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e120af614839504fb0b10b746f582bb, type: 3}
+  m_Name: ExplosionImpact
+  m_EditorClassIdentifier: 
+  _poolRef:
+    Id: {fileID: 11400000, guid: 808bcfb9de8458b408b2a6eb25ce0890, type: 2}
+    Context:
+      Reference: {fileID: 0}
+      ContextId: {fileID: 11400000, guid: 03ccca56b6eb3bf4e9bed8be6ccb1aad, type: 2}
+  _damageType: {fileID: 11400000, guid: c7580d12419bf594eaf7e609d900e03b, type: 2}
+  _effect: {fileID: 1736153105000017897, guid: ff241a539c525f64abb5c70de3e3236a, type: 3}
+  _radius: 6
+  _upwardsExplosionModifier: 0.2

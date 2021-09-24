@@ -1,0 +1,15 @@
+{
+    "name": "WindowManager",
+    "references": [
+        "GUID:975025586d91423abfec378a4353c027"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41cd57c4e78f72f419d92f485abe5821, type: 3}
+  m_Name: SavableData
+  m_EditorClassIdentifier: 
+  IsReadonly: 1
+  _value: {fileID: 11400000, guid: 946d494db32e1f0489b8cbb05155a7a5, type: 2}
+  _variableId: {fileID: 11400000, guid: 50a8eed0c27ad1043b1e15b8787533e8, type: 2}

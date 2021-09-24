@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62fbd6f6f9e97ad4e9f66cb3f1bb256c, type: 3}
+  m_Name: WindowsManager
+  m_EditorClassIdentifier: 
+  _canvasPrefab: {fileID: 8773635038631448563, guid: 2a6a3c947b6b6da40b6adacbdd540d3a,
+    type: 3}
+  _windowPrefabs:
+  - {fileID: 8096798458215888, guid: 79b71180709822b4c9d63df4026089f6, type: 3}
+  - {fileID: 4603129509547448558, guid: 37ac418b758b28c4582e1a6b465dfa20, type: 3}
+  - {fileID: 1435933204310594891, guid: bd2aea327489e8647947392745b95c88, type: 3}
